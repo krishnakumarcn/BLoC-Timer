@@ -24,7 +24,9 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.0
+  equatable: ^1.2.5
   flutter_bloc: ^6.1.1
+  wave: ^0.1.0
 
 dev_dependencies:
   flutter_test:
